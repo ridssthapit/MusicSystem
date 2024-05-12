@@ -47,7 +47,7 @@
               <!-- /.info-box-content -->
             </div>
             <!-- /.info-box -->
-          </div>
+      \    </div>
           <div class="col-12 col-sm-6 col-md-3">
             <div class="info-box bg-black border border-primary">
               <span class="info-box-icon bg-primary elevation-1"><i class="fas fa-users text-gradient-primary"></i></span>
